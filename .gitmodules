@@ -1,0 +1,3 @@
+[submodule "simplified-chat-slider"]
+	path = simplified-chat-slider
+	url = git@github.com:jscaffrey/simplified-chat-slider.git
