@@ -1,3 +1,9 @@
 [submodule "simplified-chat-slider"]
 	path = simplified-chat-slider
 	url = https://github.com/jscaffrey/simplified-chat-slider.git
+[submodule "breathe-with-the-shape"]
+	path = breathe-with-the-shape
+	url = https://github.com/jscaffrey/breathe-with-the-shape.git/
+[submodule "addtheproxy"]
+	path = addtheproxy
+	url = https://github.com/jscaffrey/addtheproxy.git
